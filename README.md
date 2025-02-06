@@ -1,1 +1,1 @@
-SQL tutorial for one month
+6 weeks SQL tutorial
